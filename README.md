@@ -1,2 +1,3 @@
 # Embedded-Projects
-The repo for my hands-on work with Embedded projects. 
+The repo for hands-on work with Embedded projects. 
+    -by Rutwik Jadhav
